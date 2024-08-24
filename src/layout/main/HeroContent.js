@@ -36,7 +36,7 @@ const HeroContent = () => {
    <>
    
    <div>
-    <h1>Turing Technologies Front End Test</h1>
+    <h1>Front End </h1>
     {/* <Dropdown
     menu={{
       items,
